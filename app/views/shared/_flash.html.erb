@@ -1,0 +1,11 @@
+<%# the if statement makes the alerts disappear from the about page since we don't need them. %>
+<% if flash[:notice] %>
+<div class = "alert">
+<%= flash[:notice] %>
+</div>
+<% end %>
+<% if flash[:alert] %>
+<div class = "alert ">
+<%= flash[:alert] %>
+</div>
+<% end %>
