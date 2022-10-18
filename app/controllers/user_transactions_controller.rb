@@ -21,4 +21,14 @@ class UserTransactionsController < ApplicationController
       end
     end
   end
+
+  private
+
+  def set_user_transaction
+    @group = Group.find(params[:group_id])
+  end
+
+  def user_transaction_params
+    params.require(:user_transaction).permit(:name, :amount)
+  end
 end
