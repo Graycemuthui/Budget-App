@@ -202,6 +202,10 @@ img {
   column-gap: 15px;
 }
 
+.forms {
+  margin-left: 5rem;
+}
+
 .transaction-category strong {
   margin-left: auto;
 }
@@ -224,43 +228,6 @@ img {
 
 .transaction-wrapper p {
   color: #434b54;
-}
-
-.field {
-  background-color: #fff;
-  border-bottom: 1px #f1f1f1 solid;
-}
-
-.field input {
-  background-color: transparent;
-  color: #434b54;
-}
-
-.field input::placeholder {
-  color: #434b5480;
-}
-
-.field input,
-.actions input {
-  outline: none;
-  border: none;
-  width: calc(100% - 30px);
-  padding: 10px 15px;
-  font-size: 15px;
-  font-weight: 400;
-}
-
-.actions {
-  width: 100%;
-  display: flex;
-  justify-content: center;
-  margin: 1rem 0 2rem 0;
-}
-
-.actions input {
-  color: #fff;
-  background-color: #5fb523;
-  cursor: pointer;
 }
 
 .links-wrapper {
