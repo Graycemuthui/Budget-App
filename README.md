@@ -1,30 +1,62 @@
-# README
+# Budget-App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+- Is a mobile web application where you can manage your budget: you have a list of transactions associated with a category, so that you can see how much money you spent and on what
 
-Things you may want to cover:
+## Built With
 
-- Ruby version
+- Ruby on Rails
 
-- System dependencies
+## Live Demo
 
-- Configuration
+No live demo available
 
-- Database creation
+### Download it as a ZIP file
 
-- Database initialization
+or
 
-- How to run the test suite
+### Clone it in your local machine using GIT
 
-- Services (job queues, cache servers, search engines, etc.)
+to get a local copy , clone the repository using git clone
+(git@github.com:Graycemuthui/Blog-App.git)
 
-- Deployment instructions
+After you clone it run the following commands
 
-- ...
+```running the app
 
-https://www.pexels.com/photo/cakes-on-table-1857157/ - Birthdays
-https://www.pexels.com/photo/assorted-cosmetic-lot-2536965/ -Shopping
-https://www.pexels.com/photo/cottages-in-the-middle-of-beach-753626/ Vacation
-https://www.pexels.com/photo/people-inside-building-1601774/ - Gaming
-https://www.pexels.com/photo/gift-bags-at-a-baby-shower-party-9214972/ - Baby
+- cd My-Catalog
+- bundle install
+- rails db:migrate
+- rails server
+
+```
+
+## Authors
+
+👤 **Grace Muthui**
+
+- GitHub: [@Grayce Muthui](https://github.com/Graycemuthui)
+- Twitter: [@Grayce_Muthui](https://twitter.com/Grayce_Muthui)
+- LinkedIn: [@Grayce Muthui](http://www.linkedin.com/in/grayce-muthui-a17294226)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/Graycemuthui/Blog-App/issues).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+### Acknowledgments
+
+Much appreciated to [Gregoire Vella](https://www.behance.net/gregoirevella) the owner of the design.
+Birthday image from [pexels](https://www.pexels.com/photo/cakes-on-table-1857157/) by Silvia Trigo
+Shopping image from [pexels](https://www.pexels.com/photo/assorted-cosmetic-lot-2536965/) by Suzy Hazelwood
+Gaming image from [pexels](https://www.pexels.com/photo/people-inside-building-1601774/) by Mikechie Esparagoza
+Vacation image from [pexels](https://www.pexels.com/photo/cottages-in-the-middle-of-beach-753626/) by Julius Silver
+Babyshower image from [pexels](https://www.pexels.com/photo/gift-bags-at-a-baby-shower-party-9214972/) by RODNAE Productions
+
+## 📝 License
+
+This project is [MIT](https://github.com/Graycemuthui/Blog-App/blob/dev/LICENSE) licensed.
