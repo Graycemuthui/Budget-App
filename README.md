@@ -29,6 +29,8 @@ After you clone it run the following commands
 - rails server
 
 ```
+### Deployment 
+Here is a link of the deployment [link](https://geegee-budget-app.herokuapp.com/)
 
 ## Authors
 
