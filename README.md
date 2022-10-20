@@ -55,12 +55,12 @@ Give a ⭐️ if you like this project!
 
 ### Acknowledgments
 
-Much appreciated to [Gregoire Vella](https://www.behance.net/gregoirevella) the owner of the design.
-Birthday image from [pexels](https://www.pexels.com/photo/cakes-on-table-1857157/) by Silvia Trigo
-Shopping image from [pexels](https://www.pexels.com/photo/assorted-cosmetic-lot-2536965/) by Suzy Hazelwood
-Gaming image from [pexels](https://www.pexels.com/photo/people-inside-building-1601774/) by Mikechie Esparagoza
-Vacation image from [pexels](https://www.pexels.com/photo/cottages-in-the-middle-of-beach-753626/) by Julius Silver
-Babyshower image from [pexels](https://www.pexels.com/photo/gift-bags-at-a-baby-shower-party-9214972/) by RODNAE Productions
+- Much appreciated to [Gregoire Vella](https://www.behance.net/gregoirevella) the owner of the design.
+- Birthday image from [pexels](https://www.pexels.com/photo/cakes-on-table-1857157/) by Silvia Trigo
+- Shopping image from [pexels](https://www.pexels.com/photo/assorted-cosmetic-lot-2536965/) by Suzy Hazelwood
+- Gaming image from [pexels](https://www.pexels.com/photo/people-inside-building-1601774/) by Mikechie Esparagoza
+- Vacation image from [pexels](https://www.pexels.com/photo/cottages-in-the-middle-of-beach-753626/) by Julius Silver
+- Babyshower image from [pexels](https://www.pexels.com/photo/gift-bags-at-a-baby-shower-party-9214972/) by RODNAE Productions
 
 ## 📝 License
 
