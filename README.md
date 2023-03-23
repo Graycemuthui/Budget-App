@@ -1,6 +1,6 @@
 # Budget-App
 
-- This is a mobile web application where you can manage your budget.
+- This is a rails web application where you can manage your budget.
 
 ## Built With
 
